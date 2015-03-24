@@ -1,2 +1,2 @@
 # ls-test-01
-first test
+first test and first try
